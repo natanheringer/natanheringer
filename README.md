@@ -1,5 +1,4 @@
-## Hi there 👋
-📊 **Estatísticas**  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanheringer&layout=compact&theme=default)
 <!--
 **natanheringer/natanheringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,9 +7,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/natanheringer">
-    <img src="https://github-readme-stats.vercel.app/api?username=natanheringer&show_icons=true&theme=default" alt="GitHub Stats"/>
-  </a>
+ 
   <br>
   <a href="https://github.com/natanheringer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanheringer&layout=compact&theme=default&langs_count=8" alt="Most Used Languages"/>

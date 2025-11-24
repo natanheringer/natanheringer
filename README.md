@@ -1,7 +1,7 @@
 <p align="center">
   <strong style="font-size: 24px;">Natan Heringer</strong><br>
   Estudante de Análise e Desenvolvimento de Sistemas  
-  Foco em desenvolvimento backend com Java/Spring Boot e em linguagens de baixo nível como C, C++ e Assembly.
+  Foco em desenvolvimento backend com Python/Java/Spring Boot e em linguagens de baixo nível como C, C++ e Assembly.
 </p>
 
 ---
@@ -18,6 +18,7 @@
 
 ## Projetos de Destaque
 
+- **dashboard-TRONIK** – dashboard completa para monitoramento de dispositivos IoT e controle financeiro da empresa TRONIK Recicla.
 - **desafio-Java-Spring** – API REST com Java e Spring Boot, modular e estruturada.
 - **InventoryManagementSystem** – Sistema de inventário em Java, classes e funções customizadas.
 - **assembly-calculator-logic** – Lógica de calculadora implementada em Assembly.
